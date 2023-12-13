@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![2023-12-13 214019](https://github.com/khomcvla/khomcvla/assets/37308862/45b69e43-d5a5-4fc6-8b3e-0ac58bd4c743)
+![Vladislav Khomchenko](https://github.com/khomcvla/khomcvla/assets/37308862/8d4a4bee-196d-458f-947c-f29916390317)
