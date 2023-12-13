@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Vladislav Khomchenko](https://github.com/khomcvla/khomcvla/assets/37308862/8d4a4bee-196d-458f-947c-f29916390317)
+Software engineer with 5+ years of experience in backend development with designing and implementing scalable, cloud applications and microservice-based distributed systems using various technologies.
