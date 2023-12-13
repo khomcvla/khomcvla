@@ -23,5 +23,4 @@ Software engineer with 5+ years of experience in backend development with design
   <a href="mailto:khomcvla@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="tel:+420737443047">+420-737-443-047</a>
 </div>
