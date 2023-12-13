@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **khomcvla/khomcvla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![2023-12-13 214019](https://github.com/khomcvla/khomcvla/assets/37308862/45b69e43-d5a5-4fc6-8b3e-0ac58bd4c743)
 [CV_SE_Vladislav_Khomchenko.pdf](https://github.com/khomcvla/khomcvla/files/13665485/CV_SE_Vladislav_Khomchenko.pdf)
-![Снимок экрана 2023-12-13 214019](https://github.com/khomcvla/khomcvla/assets/37308862/45b69e43-d5a5-4fc6-8b3e-0ac58bd4c743)
