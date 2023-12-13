@@ -20,7 +20,7 @@ Software engineer with 5+ years of experience in backend development with design
   <a href="https://www.linkedin.com/in/khomcvla">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="khomcvla/@gmail.com">
+  <a href="mailto:khomcvla@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
