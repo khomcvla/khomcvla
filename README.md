@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 -->
 ![Vladislav Khomchenko](https://github.com/khomcvla/khomcvla/assets/37308862/8d4a4bee-196d-458f-947c-f29916390317)
 Software engineer with 5+ years of experience in backend development with designing and implementing scalable, cloud applications and microservice-based distributed systems using various technologies.
+
+## Connect with Me
+<div id="badges">
+  <a href="https://www.linkedin.com/in/khomcvla">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="khomcvla/@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
